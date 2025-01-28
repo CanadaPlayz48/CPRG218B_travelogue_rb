@@ -1,0 +1,31 @@
+header, footer {
+    background-color: darkred;
+    color: white;
+    display:flex;
+    align-items: center;
+    padding:1rem;
+}
+
+h2, h3 {
+    text-align: center;
+    padding:0.5rem;
+}
+
+main {
+    box-shadow: 4px 4px 10px 3px rgba(0,0,0,0.4);
+}
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-bottom:0.5rem;
+}
+.LocImgs {
+    width: 95%;
+    height: auto;
+    display:flex;
+    padding:0.5rem;
+}
