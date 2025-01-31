@@ -1,7 +1,6 @@
 header, footer {
     background-color: darkred;
     color: white;
-    display:flex;
     align-items: center;
     padding:1rem;
 }
@@ -11,6 +10,9 @@ h2, h3 {
     padding:0.5rem;
 }
 
+#title {
+    text-align: center;
+}
 main {
     box-shadow: 4px 4px 10px 3px rgba(0,0,0,0.4);
 }
